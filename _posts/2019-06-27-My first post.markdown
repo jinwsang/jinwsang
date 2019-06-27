@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first post
-date: 2019-06-27 23:45:00
+date: 2019-06-27 23:45:00 -0700
 description: My first post
 ---
 My first post in my first blog at github
