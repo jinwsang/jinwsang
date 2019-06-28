@@ -1,15 +1,22 @@
----
+Post No.1
+===
 layout: post
 title: My first post
 date: 2019-06-27 23:45:00
 description: My first post
+
 ---
-My first post in my first blog at github
+<hr/>
 
-I'm not familiar with markdown language, so it is little bit hard to write a post.
+This is my first post in my first blog at github
 
+After servere minutes of searching internet,
+I knew that markdown language can be used for write a post in github blog.
+But I'm not familiar with markdown language, so currently it is little bit hard to write a post.
+
+Anyway...
 There will be a post which is study on software, coding, programming only.
 
 mmm... Okay, this is it.
 
-see ya next time.
+See ya next time. =:)
