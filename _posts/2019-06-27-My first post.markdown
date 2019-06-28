@@ -3,9 +3,7 @@ layout: post
 title: Post No.1
 date: 2019-06-27 23:45:00
 description: My first post
-
 ---
-<hr/>
 
 This is my first post in my first blog at github
 
