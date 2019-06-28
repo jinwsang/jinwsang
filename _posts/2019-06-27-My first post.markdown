@@ -1,7 +1,6 @@
-Post No.1
-===
+---
 layout: post
-title: My first post
+title: Post No.1
 date: 2019-06-27 23:45:00
 description: My first post
 
