@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Synchronization : Semaphore, Mutex, Event
-date: 2019-06-27 23:45:00
+date: 2019-06-30 15:01:00
 description: How to share resources without crash?
 ---
 
